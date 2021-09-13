@@ -1,6 +1,4 @@
-backend
-infra
-docker
+CorporateSite_App
 
 /docker/logs
 /docker/php/bash
@@ -35,3 +33,4 @@ Homestead.json
 .phpunit.result.cache
 
 memo.txt
+works-template.html
